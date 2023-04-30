@@ -10,6 +10,8 @@
  
  Projeto Site de Emprego: https://github.com/Wfelipetm/Site_de_Emprego
  
+ Projeto Conversor de texto para audio: https://github.com/Wfelipetm/ConverterTextoemAudio
+ 
  
  
  # React
