@@ -4,6 +4,8 @@
  # JavaScript
  Projeto Ping Pong: https://github.com/Wfelipetm/Ping_Pong
  
+ Pokedex: https://github.com/Wfelipetm/Pokedex
+ 
  Projeto Calculadora Black: https://github.com/Wfelipetm/Calculadora_Black
  
  Projeto Site de Receita: https://github.com/Wfelipetm/Site_de_Receita
