@@ -8,8 +8,6 @@
  
  Projeto Site de Receita: https://github.com/Wfelipetm/Site_de_Receita
  
- Projeto Site de Emprego: https://github.com/Wfelipetm/Site_de_Emprego
- 
  Projeto Conversor de texto para audio: https://github.com/Wfelipetm/ConverterTextoemAudio
  
  
@@ -17,7 +15,7 @@
  # React
  Projeto Catalago de Livros: https://github.com/Wfelipetm/Catalago_de_Livros_React
  
- Projeto:
+ Projeto: Site de Emprego: https://github.com/Wfelipetm/Site_de_Emprego
  
  Projeto:
  
