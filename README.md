@@ -1,7 +1,7 @@
 # Front_End
  Portfólio de projetos Front-End
  
- # JavaScript
+ # HTML | CSS | JavaScript
  Projeto Ping Pong: https://github.com/Wfelipetm/Ping_Pong
  
  Pokedex: https://github.com/Wfelipetm/Pokedex
@@ -11,6 +11,8 @@
  Projeto Site de Receita: https://github.com/Wfelipetm/Site_de_Receita
  
  Projeto Conversor de texto para audio: https://github.com/Wfelipetm/ConverterTextoemAudio
+ 
+ Projeto Replica site Adidas: https://replicasiteadidas.netlify.app/index.html
  
  
  
