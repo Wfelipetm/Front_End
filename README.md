@@ -12,7 +12,7 @@
  
  Projeto Conversor de texto para audio: https://github.com/Wfelipetm/ConverterTextoemAudio
  
- Projeto Replica site Adidas: https://replicasiteadidas.netlify.app/index.html
+ Projeto Replica site Adidas: https://github.com/Wfelipetm/ReplicaSiteAdidas
  
  
  
